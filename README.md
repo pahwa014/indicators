@@ -1,7 +1,8 @@
 ## Stock Market based modules in Python
 
-This branch is to restructure the current codes and make them more optimized.
-Don't work in branch until merged with master.
+This repository contains python codes for different modules in market analysis.
+
+Codes are not optimized and there is scope for improvement. Whenever I will get time I will try to improve these.
 
 All technical, options and Algo modules are updated in this repository.
 
